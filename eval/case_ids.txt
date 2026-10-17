@@ -1,0 +1,16 @@
+# Held-out evaluation case IDs (BraTS 2021)
+# Published list — these cases were NOT used for any tuning decisions.
+# Overlap disclosure: BraTS 2021 includes cases from BraTS 2018 (model training set).
+# See docs/LIMITATIONS.md.
+#
+# Add your 10 held-out case IDs here, one per line:
+BraTS2021_00000
+BraTS2021_00001
+BraTS2021_00002
+BraTS2021_00003
+BraTS2021_00004
+BraTS2021_00005
+BraTS2021_00006
+BraTS2021_00007
+BraTS2021_00008
+BraTS2021_00009
